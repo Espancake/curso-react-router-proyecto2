@@ -1,5 +1,5 @@
 {
-  "name": "curso-intro-react",
+  "name": "curso-react-router-proyecto2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,7 +9,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-router-dom": "^6.3.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
@@ -41,5 +41,5 @@
   "devDependencies": {
     "gh-pages": "^3.2.3"
   },
-  "homepage": "https://platzi.github.io/curso-intro-react"
+  "homepage": "https://Espancake.github.io/curso-react-router-proyecto2"
 }
